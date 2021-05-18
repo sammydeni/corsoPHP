@@ -11,6 +11,7 @@ foreach ($json as $key => $paese) {
     echo "<li>".$paese->name."</li>";
 }
 echo "</ul>";
+echo "</ul>";
 
 // echo ($json[25]->name);
 ?>
